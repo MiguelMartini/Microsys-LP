@@ -1,11 +1,12 @@
 
 import './App.css'
+import Home from './pages/Home'
 
 function App() {
 
   return (
     <>
-      <h1 className='text-blue-500 font-bold'>Microsys</h1>
+      <Home/>
     </>
   )
 }
