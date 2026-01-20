@@ -4,9 +4,9 @@ import { Users, BrainCircuit, ChartColumnDecreasing, ShieldCheck } from 'lucide-
 
 function Recursos() {
   return (
-    <div className='p-4 lg:px-40'>
+    <div className='p-4 my-6 lg:px-40'>
         <div className='flex items-center flex-col'>
-         <p className='text-2xl font-bold text-gray-600'>Recursos</p>
+         <p className='text-3xl font-bold text-gray-600'>Recursos</p>
          <p className='font-normal'>Recursos poderosos para o seu negócio</p>
          <div className='mt-4
          lg:flex'
