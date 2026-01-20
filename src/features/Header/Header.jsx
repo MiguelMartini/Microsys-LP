@@ -44,7 +44,7 @@ function Header() {
           <p className="cursor-pointer">Planos</p>
           <p className="cursor-pointer">Equipe</p>
           <div className="flex justify-center gap-4">
-            <Button title={"Entrar"}  onClick={() => toast.warning("Em construção")}/>
+            <Button title={"Entrar"} variant="transparent" onClick={() => toast.warning("Em construção")}/>
             <Button title={"Cadastrar"} onClick={() => toast.warning("Em construção")}/>
           </div>
         </nav>
