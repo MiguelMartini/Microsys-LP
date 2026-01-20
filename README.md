@@ -1,16 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# MicroSys
+Landing Page criada com o intuito de apresentar o MicroSys. O MicroSys é um sistema para apoio de pequenos e médios empreendedores, com auxílio de agentes de Inteligência Artificial para tomadas de decisões
+## ScreenShots MicroSys
+<img width="1919" height="958" alt="Screenshot_1" src="https://github.com/user-attachments/assets/948fadb9-2c4f-4e3d-9c82-0b4f5fcab4de" />
+<img width="1906" height="958" alt="Screenshot_4" src="https://github.com/user-attachments/assets/84382c28-4abd-474e-ac41-a05bf426cf98" />
+<img width="1917" height="959" alt="Screenshot_5" src="https://github.com/user-attachments/assets/ec2cef66-e3f0-4b04-a486-6594476a44e3" />
+<img width="1907" height="959" alt="Screenshot_7" src="https://github.com/user-attachments/assets/d09fa584-a06c-47d3-a4fb-e8bb87f2c528" />
+<img width="1918" height="959" alt="Screenshot_8" src="https://github.com/user-attachments/assets/d0067d01-93d2-42d1-80ff-49f6894292f2" />
