@@ -5,7 +5,7 @@ function Sobre() {
   return (
     <div className="bg-[#F9FAFB] py-12 px-4 lg:px-20">
       <div className="max-w-6xl mx-auto">
-        <p className="text-3xl font-bold text-gray-600 mb-8">
+        <p className="text-3xl font-bold text-gray-600 mb-8" id="sobre">
           Sobre o MicroSys
         </p>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
