@@ -7,8 +7,8 @@ function Header() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="bg-white">
-      <div className="p-4 flex items-center justify-between lg:px-40">
+    <header className="bg-white fixed top-0 right-0 left-0">
+      <div className="p-4 flex items-center justify-between lg:px-40 ">
         <div className="flex flex-row gap-2 items-center">
           <span className="p-1 bg-[#E4EBFF] rounded-2xl"><img src={logo} alt="logo" className="w-12" /></span>
           <h1 className="text-[#2563EB] font-bold text-2xl">MicroSys</h1>
